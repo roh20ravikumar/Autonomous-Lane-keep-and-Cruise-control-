@@ -13,21 +13,21 @@ After a particular number of iterations, it was noticed that the car was not tur
 ![image](https://github.com/roh20ravikumar/Autonomous-Lane-keep-and-Cruise-control-/assets/95481658/f50e6862-0b0e-4851-9d77-cd5b49f5b6fd)
 
 ## Results:
-Sensor calibration:
+### Sensor calibration:
 
 ![image](https://github.com/roh20ravikumar/Autonomous-Lane-keep-and-Cruise-control-/assets/95481658/7512324a-29e4-4ede-9963-9940497365e1)
 
 ![image](https://github.com/roh20ravikumar/Autonomous-Lane-keep-and-Cruise-control-/assets/95481658/afe74a3c-006e-4aa4-8b18-b518644dc473)
 
 
-Control logic algorithm:
+### Control logic algorithm:
 
 ![image](https://github.com/roh20ravikumar/Autonomous-Lane-keep-and-Cruise-control-/assets/95481658/c517e902-b84a-4629-814c-e5fec8b96d61)
 
 ![image](https://github.com/roh20ravikumar/Autonomous-Lane-keep-and-Cruise-control-/assets/95481658/22d878a8-7091-408f-a658-cc532697bbb5)
 
 
-Sensor and hardware setup:
+### Sensor and hardware setup:
 
 ![image](https://github.com/roh20ravikumar/Autonomous-Lane-keep-and-Cruise-control-/assets/95481658/e4c92b7a-d96f-482c-960e-0592edf9806e)
 
